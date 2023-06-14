@@ -14,7 +14,7 @@ use the application live here [https://swift-share-app.web.app/](https://swift-s
 4. Select as many files as you want to upload
 5. Give the session name (located at the top of the screen) to the person you want to share the files with
 
-*Note*: Files may take time to upload depending on your internet connection and the size of the files so you can monitor their progress using the percentage at the right of each file name.
+**Note**: Files may take time to upload depending on your internet connection and the size of the files so you can monitor their progress using the percentage at the right of each file name.
 iPhone requires 2 clicks because Apple requires that file pickers are triggered by user interaction and since the upload button also creates the session iOS doesn't count the first click as a user interaction. I will be looking into a fix for this in the future.
 
 ### Downloading Files
